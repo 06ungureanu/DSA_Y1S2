@@ -1,0 +1,55 @@
+==55542== Memcheck, a memory error detector
+==55542== Copyright (C) 2002-2024, and GNU GPL'd, by Julian Seward et al.
+==55542== Using Valgrind-3.24.0 and LibVEX; rerun with -h for copyright info
+==55542== Command: ./bug1
+==55542== Parent PID: 41800
+==55542== 
+==55542== Invalid read of size 8
+==55542==    at 0x40139B: removeNodeFromList (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==    by 0x4014D9: main (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==  Address 0x8 is not stack'd, malloc'd or (recently) free'd
+==55542== 
+==55542== 
+==55542== Process terminating with default action of signal 11 (SIGSEGV): dumping core
+==55542==  Access not within mapped region at address 0x8
+==55542==    at 0x40139B: removeNodeFromList (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==    by 0x4014D9: main (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==  If you believe this happened as a result of a stack
+==55542==  overflow in your program's main thread (unlikely but
+==55542==  possible), you can try to increase the size of the
+==55542==  main thread stack using the --main-stacksize= flag.
+==55542==  The main thread stack size used in this run was 8388608.
+==55542== 
+==55542== HEAP SUMMARY:
+==55542==     in use at exit: 1,056 bytes in 3 blocks
+==55542==   total heap usage: 5 allocs, 2 frees, 1,088 bytes allocated
+==55542== 
+==55542== 16 bytes in 1 blocks are still reachable in loss record 1 of 3
+==55542==    at 0x4841866: malloc (vg_replace_malloc.c:446)
+==55542==    by 0x401220: insertNodeHeadOfList (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==    by 0x401401: main (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542== 
+==55542== 16 bytes in 1 blocks are still reachable in loss record 2 of 3
+==55542==    at 0x4841866: malloc (vg_replace_malloc.c:446)
+==55542==    by 0x401220: insertNodeHeadOfList (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==    by 0x40141E: main (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542== 
+==55542== 1,024 bytes in 1 blocks are still reachable in loss record 3 of 3
+==55542==    at 0x4841866: malloc (vg_replace_malloc.c:446)
+==55542==    by 0x48CB1A6: _IO_file_doallocate (filedoalloc.c:101)
+==55542==    by 0x48DA4D3: _IO_doallocbuf (genops.c:374)
+==55542==    by 0x48DA4D3: _IO_doallocbuf (genops.c:369)
+==55542==    by 0x48D85C7: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:745)
+==55542==    by 0x48CFB1F: putchar (putchar.c:28)
+==55542==    by 0x40117B: printList (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542==    by 0x4013E4: main (in /home/ungureanu/Desktop/SDA/lab6/bug1)
+==55542== 
+==55542== LEAK SUMMARY:
+==55542==    definitely lost: 0 bytes in 0 blocks
+==55542==    indirectly lost: 0 bytes in 0 blocks
+==55542==      possibly lost: 0 bytes in 0 blocks
+==55542==    still reachable: 1,056 bytes in 3 blocks
+==55542==         suppressed: 0 bytes in 0 blocks
+==55542== 
+==55542== For lists of detected and suppressed errors, rerun with: -s
+==55542== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

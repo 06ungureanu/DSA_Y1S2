@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Ungureanu A.M\Desktop\recapsda\lab Network\main.c(139,1): warning C4715: 'getVertexIndex': not all control paths return a value
+  lab Network.vcxproj -> C:\Users\Ungureanu A.M\Desktop\recapsda\lab Network\x64\Debug\lab Network.exe

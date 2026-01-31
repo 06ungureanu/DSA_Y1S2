@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN INGHETATA\main.c(48,20): warning C4133: '=': incompatible types - from 'Order **' to 'IceCreamNode **'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN INGHETATA\main.c(52,1): warning C4715: 'constructHashTableFromFile': not all control paths return a value
+  EXAMEN INGHETATA.vcxproj -> C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN INGHETATA\x64\Debug\EXAMEN INGHETATA.exe

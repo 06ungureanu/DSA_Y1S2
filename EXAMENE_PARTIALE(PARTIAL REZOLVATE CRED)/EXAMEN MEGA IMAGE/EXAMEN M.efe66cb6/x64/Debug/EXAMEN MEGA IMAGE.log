@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(118,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(125,3): warning C4033: 'createNewReceiptNode' must return a value
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(135,13): warning C4133: '=': incompatible types - from 'ReceiptNode *' to 'ReceiptNode *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(192,4): warning C4133: 'return': incompatible types - from 'CardNode *' to 'Card *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(220,5): warning C4133: '=': incompatible types - from 'ReceiptNode *' to 'ReceiptNode *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(312,8): warning C4133: '=': incompatible types - from 'ReceiptNode *' to 'ReceiptNode *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(367,49): warning C4133: 'function': incompatible types - from 'CardNode *' to 'HashTable *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\main.c(130,1): warning C4715: 'createNewReceiptNode': not all control paths return a value
+  EXAMEN MEGA IMAGE.vcxproj -> C:\Users\Ungureanu A.M\Desktop\recapsda\EXAMEN MEGA IMAGE\x64\Debug\EXAMEN MEGA IMAGE.exe

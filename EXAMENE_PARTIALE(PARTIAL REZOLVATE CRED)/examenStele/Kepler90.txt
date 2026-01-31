@@ -1,0 +1,8 @@
+2000
+6
+Kepler90A 10
+Kepler90B 10
+Kepler90C 10
+Kepler90D 10
+Kepler90E 10
+Kepler90F 10

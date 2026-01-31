@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Ungureanu A.M\Desktop\recapsda\Social Network\main.c(98,13): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\Social Network\main.c(100,35): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+  Social Network.vcxproj -> C:\Users\Ungureanu A.M\Desktop\recapsda\Social Network\x64\Debug\Social Network.exe

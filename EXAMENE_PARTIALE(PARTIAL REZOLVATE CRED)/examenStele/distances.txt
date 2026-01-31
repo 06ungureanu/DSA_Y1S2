@@ -1,0 +1,8 @@
+6
+Sun		Kepler90	Betelgeuse	Andromeda	CanisMajor	Pegasus
+0		700			200			INF			INF			INF
+INF		0			200			100			INF			INF
+200		300			0			800			500			INF
+INF		INF			INF			0			400			500
+INF		INF			INF			500			0			200
+INF		INF			INF			INF			INF			0	

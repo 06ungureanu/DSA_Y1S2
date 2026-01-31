@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Ungureanu A.M\Desktop\recapsda\examenStele\main.c(450,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'Star *'
+C:\Users\Ungureanu A.M\Desktop\recapsda\examenStele\main.c(450,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'Star *'
+  examenStele.vcxproj -> C:\Users\Ungureanu A.M\Desktop\recapsda\examenStele\x64\Debug\examenStele.exe

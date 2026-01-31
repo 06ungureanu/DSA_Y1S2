@@ -1,0 +1,6 @@
+5
+Sun Betelgeuse 10
+Sun Kepler90 20
+Betelgeuse Kepler90 15
+Betelgeuse Pegasus 25
+Kepler90 Pegasus 30

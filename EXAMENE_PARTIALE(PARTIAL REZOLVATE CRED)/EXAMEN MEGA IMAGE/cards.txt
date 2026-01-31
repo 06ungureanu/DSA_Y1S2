@@ -1,0 +1,13 @@
+	3
+	Cristi Dulce
+	32
+	1
+	lista_cristi.txt
+	George Energei
+	65
+	1
+	lista_george.txt
+	Florin Uratu
+	41
+	1
+	lista_florin.txt

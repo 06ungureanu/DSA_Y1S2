@@ -1,0 +1,8 @@
+Ana 4 Cristina Ionut Andrei Maria
+Cristina 1 Ana
+Ionut 3 Ana Andrei Maria
+Andrei 2 Ana Ionut
+Maria 3 Ionut Ana Andreea
+Andreea 1 Maria
+Ciprian 1 Alexandra
+Alexandra 1 Ciprian

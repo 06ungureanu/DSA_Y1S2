@@ -1,0 +1,63 @@
+Theodor, un copil din București, își dorește să viziteze în curând Grecia. Știind că acolo va găsi o multitudine de
+plaje, acesta are nevoie de un program care să-l ajute în stabilirea ordinii în care plajele ar trebui vizitate.
+• O plajă poate fi definită de următoarele elemente: Nume, dacă are un bar la dispoziție și o serie de note acordate
+de utilizatori care au vizitat plaja.
+• Utilizatorul are nevoie de un meniu al aplicației, care să conțină următoarele operații:
+1. Get Next Beach – afișează pe ecran care este următoarea plajă pe care ar trebui să o viziteze. Întotdeauna
+este aleasă plaja cu cel mai mare rating din plajele rămase. Ratingul este calculat drept media aritmetică a
+notelor. Afișarea unei plaje constă în afișarea numelor și a listei de note primite.
+2. Insert New Beach – permite inserarea informațiilor despre o plajă nouă, despre care Theodor abia a aflat.
+3. Check Beach – permite verificarea dacă plaja cu numele introdus ulterior a fost deja vizitată sau nu.
+• La pornirea aplicației, utilizatorul poate selecta dacă este interesat de plajele cu bar, fără bar sau de toate plajele.
+
+Partea I
+Implementați următoarele:
+1. (0.5p) Meniul.
+2. (0.5p) Încărcarea din fișier a plajelor, într-o structură de date dedicată.
+3. (0.5p) Filtrarea plajelor în funcție de criteriul bar/not bar/all.
+4. (0.5p) Posibilitatea de a insera o nouă plajă în lista de plaje de vizitat.
+5. (0.5p) Posibilitatea de a insera o nouă notă pentru o plajă. Atenție! Adăugarea unei noi note poate afecta
+ordinea de selectare a plajelor, ratingul modificându-se.
+6. (0.5p) Posibilitatea de a afișa următoarea plajă care ar trebui vizitată.
+7. (1p) Utilizarea unor structuri eficiente pentru operațiile Get Next și Insert New.
+8. (1p) Operația de Check Beach să se execute în timp constant.
+
+Exemplu de fișier
+Paralia_Kalamitsi yes 3 4 5 5
+Paralia_Agios_Nikolaos no 4 3 5 5 4
+Mega_Portokali_Beach yes 5 5 5 5 4 4
+Fava no 4 5 5 4 4
+Karidi no 6 4 4 5 5 5 5
+Porto_Koufo yes 2 4 5
+
+Partea II
+(4p) Fie un vector A care conține N întregi. Un triplet (P,Q,R) este triunghiular dacă 0 ≤ P < Q < R < N și dacă:
+• A[P] + A[Q] > A[R]
+• A[Q] + A[R] > A[P]
+• A[R] + A[P] > A[Q]
+Scrieți o funcție eficientă int exista_triunghi(int A[], int N) care să determine dacă în vectorul A există un triplet
+triunghiular sau nu. Funcția returnează 1 dacă există și 0 în caz contrar.
+Exemplul 1:
+A[0]=10 A[1]=2 A[2]=5
+A[3]=1 A[4]=8 A[5]=20
+Există un triplet triunghiular (0,2,4), prin urmare funcția va returna 1.
+Exemplul 2:
+A[0]=10 A[1]=50 A[2]=5
+A[3]=1
+Nu există un triplet triunghiular, prin urmare funcția va returna 0.
+Constrângeri:
+• N ∈ [0,100.000]
+• Elementele vectorului a fac parte din intervalul [−2.147.483.648, 2.147.483.647]
+Observație: Rezolvarea se punctează în funcție de eficiența soluției. Punctajul maxim se acordă pentru complexitate
+temporală O(N) și complexitate spațială O(N).
+
+Obs 1: Structurile de date sunt la alegere de către studenți, însă acestea trebuie să fie eficiente d.p.d.v. timp de execuție
+și utilizare a memoriei.
+Obs 2: Formatul fișierului nu este unul fix și poate fi modificat în orice alt format de fișier/structură de fișiere.
+Obs 3: Funcția main trebuie să apeleze funcțiile necesare, astfel încât să poată fi observate punctele implementate.
+Obs 4: Pentru a fi punctate soluțiile, studenții trebuie să le susțină la momentul prezentării rezolvării.
+Obs 5: Rezolvările cu erori de compilare sunt apreciate cu nota 3.
+Obs 7: Nu este permisă utilizarea de variabile globale. Dacă acestea sunt utilizate, lucrarea se depunctează cu 1p.
+Punctaj din oficiu: 1p
+Notă maximă, conform subiect: 10
+Timp de lucru: 120 min

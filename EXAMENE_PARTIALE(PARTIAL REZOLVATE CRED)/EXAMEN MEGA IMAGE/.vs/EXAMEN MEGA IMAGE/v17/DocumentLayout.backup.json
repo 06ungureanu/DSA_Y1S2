@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\cards.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|solutionrelative:cards.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_florin.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|solutionrelative:lista_florin.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_george.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|solutionrelative:lista_george.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_cristi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFE66CB6-6E26-4CAE-8188-E355329F02C8}|EXAMEN MEGA IMAGE.vcxproj|solutionrelative:lista_cristi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAmwGwBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-30T16:01:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lista_florin.txt",
+              "DocumentMoniker": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_florin.txt",
+              "RelativeDocumentMoniker": "lista_florin.txt",
+              "ToolTip": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_florin.txt",
+              "RelativeToolTip": "lista_florin.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-30T16:26:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cards.txt",
+              "DocumentMoniker": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\cards.txt",
+              "RelativeDocumentMoniker": "cards.txt",
+              "ToolTip": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\cards.txt",
+              "RelativeToolTip": "cards.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-30T16:24:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lista_george.txt",
+              "DocumentMoniker": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_george.txt",
+              "RelativeDocumentMoniker": "lista_george.txt",
+              "ToolTip": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_george.txt",
+              "RelativeToolTip": "lista_george.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-30T16:26:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lista_cristi.txt",
+              "DocumentMoniker": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_cristi.txt",
+              "RelativeDocumentMoniker": "lista_cristi.txt",
+              "ToolTip": "C:\\Users\\Ungureanu A.M\\Desktop\\recapsda\\EXAMEN MEGA IMAGE\\lista_cristi.txt",
+              "RelativeToolTip": "lista_cristi.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-30T16:25:54.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

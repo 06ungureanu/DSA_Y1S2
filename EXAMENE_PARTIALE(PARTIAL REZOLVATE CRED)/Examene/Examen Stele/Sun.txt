@@ -1,0 +1,10 @@
+0
+8
+Mercur 4
+Venus 600
+Terra 1000
+Marte 90
+Saturn 10000
+Jupter 30000
+Uranus 500
+Neptun 300

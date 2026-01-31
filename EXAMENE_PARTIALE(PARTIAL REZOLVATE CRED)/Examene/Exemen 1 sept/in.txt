@@ -1,0 +1,8 @@
+Malibu yes 3
+3.1 4.5 7.0
+Neptun no 4
+5.3 8.7 3.2 1.2
+Saturn yes 2
+1.2 5.4
+Mamaia no 3
+5.3 1.2 2.3

@@ -1,0 +1,11 @@
+10
+Comanda0.txt
+Comanda1.txt
+Comanda2.txt
+Comanda3.txt
+Comanda4.txt
+Comanda5.txt
+Comanda6.txt
+Comanda7.txt
+Comanda8.txt
+Comanda9.txt
